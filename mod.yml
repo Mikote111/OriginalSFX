@@ -1,0 +1,8 @@
+title: Original SFX
+description: Restores the original menu sound effects from the PSP version.
+assets:
+- name: sound/win/se/common/se0000.win32.scd
+  method: copy
+  package: bbs_first
+  source:
+  - name: se0000.win32.scd
